@@ -1,0 +1,92 @@
+[    
+    {
+        "title": "What is the output of the following JavaScript code? \n `console.log(typeof null);`",
+        "answer_1": "null",
+        "answer_2": "undefined",
+        "answer_3": "object",
+        "answer_4": "boolean",
+        "right_answer": "object",
+        "type" : "easy"
+    },
+    {
+        "title": "Which of the following languages is used for styling web pages?",
+        "answer_1": "HTML",
+        "answer_2": "CSS",
+        "answer_3": "Python",
+        "answer_4": "JavaScript",
+        "right_answer": "CSS",
+        "type" : "easy"
+    },
+    {
+        "title": "Which built-in function can be used to parse a string to an integer in Python?",
+        "answer_1": "int()",
+        "answer_2": "parseInt()",
+        "answer_3": "float()",
+        "answer_4": "str()",
+        "right_answer": "int()",
+        "type" : "hard"
+    },
+    {
+        "title": "Which of these is used to create a loop in Java?",
+        "answer_1": "for",
+        "answer_2": "while",
+        "answer_3": "do-while",
+        "answer_4": "All of the above",
+        "right_answer": "All of the above",
+        "type" : "easy"
+    },
+    {
+        "title": "Which of the following is the correct syntax for creating an arrow function in JavaScript?",
+        "answer_1": "`function() => {}`",
+        "answer_2": "`() -> {}`",
+        "answer_3": "`() => {}`",
+        "answer_4": "`function => {}`",
+        "right_answer": "`() => {}`",
+        "type" : "hard"
+    },
+    {
+        "title": "In SQL, which command is used to retrieve data from a database?",
+        "answer_1": "SELECT",
+        "answer_2": "RETRIEVE",
+        "answer_3": "GET",
+        "answer_4": "FETCH",
+        "right_answer": "SELECT",
+        "type" : "easy"
+    },
+    {
+        "title": "Which one of the following is a frontend framework?",
+        "answer_1": "Node.js",
+        "answer_2": "Django",
+        "answer_3": "React",
+        "answer_4": "Flask",
+        "right_answer": "React",
+        "type" : "hard"
+    },
+    {
+        "title": "In Git, which command is used to merge two branches?",
+        "answer_1": "git join",
+        "answer_2": "git merge",
+        "answer_3": "git combine",
+        "answer_4": "git push",
+        "right_answer": "git merge",
+        "type" : "easy"
+    },
+    {
+        "title": "Which HTTP method is used to submit data to be processed by a server?",
+        "answer_1": "GET",
+        "answer_2": "POST",
+        "answer_3": "DELETE",
+        "answer_4": "PUT",
+        "right_answer": "POST",
+        "type" : "easy"
+    },
+    {
+        "title": "What does 'OOP' stand for in programming?",
+        "answer_1": "Object-Oriented Programming",
+        "answer_2": "Object-Oriented Procedures",
+        "answer_3": "Optimal Object Programming",
+        "answer_4": "Oriented Object Procedures",
+        "right_answer": "Object-Oriented Programming",
+        "type" : "easy"
+    }
+]

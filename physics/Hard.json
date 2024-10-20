@@ -1,0 +1,92 @@
+[
+    {
+        "title": "What Is The SI Unit Of Power?",
+        "answer_1": "Joule",
+        "answer_2": "Watt",
+        "answer_3": "Newton",
+        "answer_4": "Pascal",
+        "right_answer": "Watt",
+        "type": "easy"
+    },
+    {
+        "title": "Who Discovered The Law Of Universal Gravitation?",
+        "answer_1": "Galileo Galilei",
+        "answer_2": "Isaac Newton",
+        "answer_3": "Albert Einstein",
+        "answer_4": "Niels Bohr",
+        "right_answer": "Isaac Newton",
+        "type": "easy"
+    },
+    {
+        "title": "What Is The Unit Of Frequency?",
+        "answer_1": "Hertz",
+        "answer_2": "Joule",
+        "answer_3": "Volt",
+        "answer_4": "Watt",
+        "right_answer": "Hertz",
+        "type": "easy"
+    },
+    {
+        "title": "Is Gravity A Contact Force?",
+        "answer_1": "Yes",
+        "answer_2": "No",
+        "answer_3": "Sometimes",
+        "answer_4": "Depends On The Mass",
+        "right_answer": "No",
+        "type": "easy"
+    },
+    {
+        "title": "What Type Of Energy Does A Moving Object Have?",
+        "answer_1": "Potential Energy",
+        "answer_2": "Kinetic Energy",
+        "answer_3": "Thermal Energy",
+        "answer_4": "Electrical Energy",
+        "right_answer": "Kinetic Energy",
+        "type": "easy"
+    },
+    {
+        "title": "What Is The Charge Of An Electron?",
+        "answer_1": "Positive",
+        "answer_2": "Negative",
+        "answer_3": "Neutral",
+        "answer_4": "It Depends",
+        "right_answer": "Negative",
+        "type": "easy"
+    },
+    {
+        "title": "What Is The Third Law Of Motion?",
+        "answer_1": "For Every Action, There Is An Equal And Opposite Reaction",
+        "answer_2": "An Object In Motion Stays In Motion",
+        "answer_3": "Force Equals Mass Times Acceleration",
+        "answer_4": "Gravitational Force Acts Between Two Masses",
+        "right_answer": "For Every Action, There Is An Equal And Opposite Reaction",
+        "type": "easy"
+    },
+    {
+        "title": "Does A Heavier Object Fall Faster Than A Lighter One?",
+        "answer_1": "Yes",
+        "answer_2": "No",
+        "answer_3": "Only In A Vacuum",
+        "answer_4": "It Depends On The Object's Shape",
+        "right_answer": "No",
+        "type": "easy"
+    },
+    {
+        "title": "What Is The Unit Of Work?",
+        "answer_1": "Joule",
+        "answer_2": "Watt",
+        "answer_3": "Newton",
+        "answer_4": "Pascal",
+        "right_answer": "Joule",
+        "type": "easy"
+    },
+    {
+        "title": "Which Phenomenon Explains Why Objects Float?",
+        "answer_1": "Buoyancy",
+        "answer_2": "Gravity",
+        "answer_3": "Friction",
+        "answer_4": "Inertia",
+        "right_answer": "Buoyancy",
+        "type": "easy"
+    }
+]

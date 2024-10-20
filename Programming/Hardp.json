@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Is JavaScript A Compiled Language?",
+        "answer_1": "Yes",
+        "answer_2": "No",
+        "answer_3": "It Can Be Both",
+        "answer_4": "Depends On The Environment",
+        "right_answer": "No",
+        "type": "easy"
+    },
+    {
+        "title": "Which Language Is Used For Styling Web Pages?",
+        "answer_1": "HTML",
+        "answer_2": "CSS",
+        "answer_3": "JavaScript",
+        "answer_4": "Python",
+        "right_answer": "CSS",
+        "type": "easy"
+    },
+    {
+        "title": "What Does SQL Stand For?",
+        "answer_1": "Structured Query Language",
+        "answer_2": "Simple Query Language",
+        "answer_3": "Standard Query Language",
+        "answer_4": "System Query Language",
+        "right_answer": "Structured Query Language",
+        "type": "easy"
+    },
+    {
+        "title": "Is Python A Strongly Typed Language?",
+        "answer_1": "Yes",
+        "answer_2": "No",
+        "answer_3": "It Depends",
+        "answer_4": "Only For Strings",
+        "right_answer": "No",
+        "type": "easy"
+    },
+    {
+        "title": "Which Of These Is A JavaScript Framework?",
+        "answer_1": "React",
+        "answer_2": "Flask",
+        "answer_3": "Django",
+        "answer_4": "Laravel",
+        "right_answer": "React",
+        "type": "easy"
+    },
+    {
+        "title": "Is C++ An Object-Oriented Language?",
+        "answer_1": "Yes",
+        "answer_2": "No",
+        "answer_3": "Partially",
+        "answer_4": "Only For Classes",
+        "right_answer": "Yes",
+        "type": "easy"
+    },
+    {
+        "title": "What Does The 'for' Loop Do?",
+        "answer_1": "Runs Code Once",
+        "answer_2": "Loops Through A Set Number Of Iterations",
+        "answer_3": "Terminates The Program",
+        "answer_4": "Creates Functions",
+        "right_answer": "Loops Through A Set Number Of Iterations",
+        "type": "easy"
+    },
+    {
+        "title": "Is HTML A Programming Language?",
+        "answer_1": "Yes",
+        "answer_2": "No",
+        "answer_3": "Only For Markup",
+        "answer_4": "Depends On The Use",
+        "right_answer": "No",
+        "type": "easy"
+    },
+    {
+        "title": "What Is The Output Of 2 + '2' In JavaScript?",
+        "answer_1": "22",
+        "answer_2": "4",
+        "answer_3": "Error",
+        "answer_4": "Undefined",
+        "right_answer": "22",
+        "type": "easy"
+    },
+    {
+        "title": "Which Of These Is A Backend Language?",
+        "answer_1": "CSS",
+        "answer_2": "JavaScript",
+        "answer_3": "Python",
+        "answer_4": "HTML",
+        "right_answer": "Python",
+        "type": "easy"
+    }
+]

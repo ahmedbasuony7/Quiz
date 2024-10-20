@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Why We Use <br> Acids",
+        "answer_1": "To Neutralize Bases",
+        "answer_2": "To Produce Salts",
+        "answer_3": "To Make Food Sour",
+        "answer_4": "To Create Gases",
+        "right_answer": "To Produce Salts"
+    },
+    {
+        "title": "Why We Use <br> Bases",
+        "answer_1": "To Clean Surfaces",
+        "answer_2": "To Neutralize Acids",
+        "answer_3": "To Preserve Food",
+        "answer_4": "To Increase pH",
+        "right_answer": "To Neutralize Acids"
+    },
+    {
+        "title": "Why We Use <br> Catalysts",
+        "answer_1": "To Speed Up Reactions",
+        "answer_2": "To Slow Down Reactions",
+        "answer_3": "To Increase Yield",
+        "answer_4": "To Change Color",
+        "right_answer": "To Speed Up Reactions"
+    },
+    {
+        "title": "Why We Use <br> Periodic Table",
+        "answer_1": "To Organize Elements",
+        "answer_2": "To Show Chemical Reactions",
+        "answer_3": "To Predict Properties",
+        "answer_4": "To Display Molecules",
+        "right_answer": "To Organize Elements"
+    },
+    {
+        "title": "Why We Use <br> Distillation",
+        "answer_1": "To Purify Liquids",
+        "answer_2": "To Separate Solids",
+        "answer_3": "To Mix Chemicals",
+        "answer_4": "To Analyze Compounds",
+        "right_answer": "To Purify Liquids"
+    },
+    {
+        "title": "Why We Use <br> Moles",
+        "answer_1": "To Measure Volume",
+        "answer_2": "To Count Particles",
+        "answer_3": "To Measure Weight",
+        "answer_4": "To Calculate Energy",
+        "right_answer": "To Count Particles"
+    },
+    {
+        "title": "Why We Use <br> pH Scale",
+        "answer_1": "To Measure Acidity",
+        "answer_2": "To Measure Temperature",
+        "answer_3": "To Measure Pressure",
+        "answer_4": "To Measure Density",
+        "right_answer": "To Measure Acidity"
+    },
+    {
+        "title": "Why We Use <br> Reactants",
+        "answer_1": "To Begin Reactions",
+        "answer_2": "To End Reactions",
+        "answer_3": "To Change Color",
+        "answer_4": "To Speed Up Reactions",
+        "right_answer": "To Begin Reactions"
+    },
+    {
+        "title": "Why We Use <br> Stoichiometry",
+        "answer_1": "To Balance Equations",
+        "answer_2": "To Calculate Concentration",
+        "answer_3": "To Determine Reaction Rates",
+        "answer_4": "To Predict Product Yield",
+        "right_answer": "To Balance Equations"
+    },
+    {
+        "title": "Why We Use <br> Electrolysis",
+        "answer_1": "To Split Compounds",
+        "answer_2": "To Increase Temperature",
+        "answer_3": "To Generate Power",
+        "answer_4": "To Create Polymers",
+        "right_answer": "To Split Compounds"
+    }
+]

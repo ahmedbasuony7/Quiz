@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Why We Use <br> Hydrogen",
+        "answer_1": "To Fuel Rockets",
+        "answer_2": "To Create Water",
+        "answer_3": "To Power Batteries",
+        "answer_4": "To Make Explosives",
+        "right_answer": "To Create Water"
+    },
+    {
+        "title": "Why We Use <br> Oxygen",
+        "answer_1": "To Support Combustion",
+        "answer_2": "To Form Acids",
+        "answer_3": "To Create Metals",
+        "answer_4": "To Cool Reactions",
+        "right_answer": "To Support Combustion"
+    },
+    {
+        "title": "Why We Use <br> Carbon",
+        "answer_1": "To Form All Living Organisms",
+        "answer_2": "To Create Strong Bonds",
+        "answer_3": "To Form Acids",
+        "answer_4": "To Make Diamonds",
+        "right_answer": "To Form All Living Organisms"
+    },
+    {
+        "title": "Why We Use <br> Nitrogen",
+        "answer_1": "To Fertilize Crops",
+        "answer_2": "To Create Proteins",
+        "answer_3": "To Purify Water",
+        "answer_4": "To Make Ammonia",
+        "right_answer": "To Create Proteins"
+    },
+    {
+        "title": "Why We Use <br> Calcium",
+        "answer_1": "To Strengthen Bones",
+        "answer_2": "To Form Concrete",
+        "answer_3": "To Make Cheese",
+        "answer_4": "To Regulate Heartbeat",
+        "right_answer": "To Strengthen Bones"
+    },
+    {
+        "title": "Why We Use <br> Sulfur",
+        "answer_1": "To Create Fertilizers",
+        "answer_2": "To Make Gunpowder",
+        "answer_3": "To Produce Acids",
+        "answer_4": "To Preserve Food",
+        "right_answer": "To Produce Acids"
+    },
+    {
+        "title": "Why We Use <br> Sodium",
+        "answer_1": "To Salt Food",
+        "answer_2": "To Create Soap",
+        "answer_3": "To Conduct Electricity",
+        "answer_4": "To Make Glass",
+        "right_answer": "To Salt Food"
+    },
+    {
+        "title": "Why We Use <br> Iron",
+        "answer_1": "To Build Structures",
+        "answer_2": "To Make Steel",
+        "answer_3": "To Create Rust",
+        "answer_4": "To Form Alloys",
+        "right_answer": "To Make Steel"
+    },
+    {
+        "title": "Why We Use <br> Gold",
+        "answer_1": "To Create Jewelry",
+        "answer_2": "To Conduct Electricity",
+        "answer_3": "To Make Coins",
+        "answer_4": "To Form Alloys",
+        "right_answer": "To Create Jewelry"
+    },
+    {
+        "title": "Why We Use <br> Chlorine",
+        "answer_1": "To Disinfect Water",
+        "answer_2": "To Create Bleach",
+        "answer_3": "To Form Plastics",
+        "answer_4": "To Make Salt",
+        "right_answer": "To Disinfect Water"
+    }
+]

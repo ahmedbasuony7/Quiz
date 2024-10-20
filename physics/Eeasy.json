@@ -1,0 +1,94 @@
+
+
+[
+    {
+        "title": "Is Light A Wave Or A Particle?",
+        "answer_1": "Wave",
+        "answer_2": "Particle",
+        "answer_3": "Both",
+        "answer_4": "Neither",
+        "right_answer": "Both",
+        "type": "easy"
+    },
+    {
+        "title": "What Is The SI Unit Of Force?",
+        "answer_1": "Joule",
+        "answer_2": "Newton",
+        "answer_3": "Watt",
+        "answer_4": "Pascal",
+        "right_answer": "Newton",
+        "type": "easy"
+    },
+    {
+        "title": "Which Law States That F = ma?",
+        "answer_1": "Newton's First Law",
+        "answer_2": "Newton's Second Law",
+        "answer_3": "Newton's Third Law",
+        "answer_4": "Law of Universal Gravitation",
+        "right_answer": "Newton's Second Law",
+        "type": "easy"
+    },
+    {
+        "title": "Is Sound A Longitudinal Wave?",
+        "answer_1": "Yes",
+        "answer_2": "No",
+        "answer_3": "Depends On The Medium",
+        "answer_4": "It Is Both Longitudinal And Transverse",
+        "right_answer": "Yes",
+        "type": "easy"
+    },
+    {
+        "title": "What Is The Speed Of Light In Vacuum?",
+        "answer_1": "3 × 10^8 m/s",
+        "answer_2": "1.5 × 10^8 m/s",
+        "answer_3": "6 × 10^8 m/s",
+        "answer_4": "It Varies",
+        "right_answer": "3 × 10^8 m/s",
+        "type": "easy"
+    },
+    {
+        "title": "What Does E Stand For In E=mc^2?",
+        "answer_1": "Energy",
+        "answer_2": "Electricity",
+        "answer_3": "Entropy",
+        "answer_4": "Elasticity",
+        "right_answer": "Energy",
+        "type": "easy"
+    },
+    {
+        "title": "What Is The Gravitational Acceleration On Earth?",
+        "answer_1": "9.8 m/s^2",
+        "answer_2": "10 m/s^2",
+        "answer_3": "9.2 m/s^2",
+        "answer_4": "11 m/s^2",
+        "right_answer": "9.8 m/s^2",
+        "type": "easy"
+    },
+    {
+        "title": "Which Force Keeps Planets In Orbit Around The Sun?",
+        "answer_1": "Electromagnetic Force",
+        "answer_2": "Gravitational Force",
+        "answer_3": "Nuclear Force",
+        "answer_4": "Frictional Force",
+        "right_answer": "Gravitational Force",
+        "type": "easy"
+    },
+    {
+        "title": "What Is The Unit Of Electric Current?",
+        "answer_1": "Ohm",
+        "answer_2": "Volt",
+        "answer_3": "Ampere",
+        "answer_4": "Watt",
+        "right_answer": "Ampere",
+        "type": "easy"
+    },
+    {
+        "title": "Who Formulated The Theory Of Relativity?",
+        "answer_1": "Isaac Newton",
+        "answer_2": "Albert Einstein",
+        "answer_3": "Nikola Tesla",
+        "answer_4": "Galileo Galilei",
+        "right_answer": "Albert Einstein",
+        "type": "easy"
+    }
+]

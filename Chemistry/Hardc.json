@@ -1,0 +1,84 @@
+
+
+[
+    {
+        "title": "Why We Use <br> Quantum Mechanics",
+        "answer_1": "To Explain Chemical Bonding",
+        "answer_2": "To Calculate Molar Mass",
+        "answer_3": "To Determine Reaction Rates",
+        "answer_4": "To Predict Solubility",
+        "right_answer": "To Explain Chemical Bonding"
+    },
+    {
+        "title": "Why We Use <br> Thermodynamics",
+        "answer_1": "To Measure Concentration",
+        "answer_2": "To Predict Energy Changes",
+        "answer_3": "To Analyze Reaction Rates",
+        "answer_4": "To Balance Chemical Equations",
+        "right_answer": "To Predict Energy Changes"
+    },
+    {
+        "title": "Why We Use <br> Le Chatelier's Principle",
+        "answer_1": "To Predict Changes in Equilibrium",
+        "answer_2": "To Measure Reaction Rates",
+        "answer_3": "To Calculate pH",
+        "answer_4": "To Determine Molarity",
+        "right_answer": "To Predict Changes in Equilibrium"
+    },
+    {
+        "title": "Why We Use <br> The Arrhenius Equation",
+        "answer_1": "To Calculate Reaction Energies",
+        "answer_2": "To Determine Activation Energy",
+        "answer_3": "To Analyze Molar Mass",
+        "answer_4": "To Measure pH Levels",
+        "right_answer": "To Determine Activation Energy"
+    },
+    {
+        "title": "Why We Use <br> Hess's Law",
+        "answer_1": "To Determine Total Enthalpy Change",
+        "answer_2": "To Predict Product Formation",
+        "answer_3": "To Calculate Concentration",
+        "answer_4": "To Measure Reaction Kinetics",
+        "right_answer": "To Determine Total Enthalpy Change"
+    },
+    {
+        "title": "Why We Use <br> Electronegativity",
+        "answer_1": "To Measure Atomic Mass",
+        "answer_2": "To Predict Bond Type",
+        "answer_3": "To Determine Molecular Shape",
+        "answer_4": "To Calculate Heat Capacity",
+        "right_answer": "To Predict Bond Type"
+    },
+    {
+        "title": "Why We Use <br> Molecular Orbital Theory",
+        "answer_1": "To Explain Magnetic Properties",
+        "answer_2": "To Calculate Reaction Rates",
+        "answer_3": "To Determine Acid Strength",
+        "answer_4": "To Measure Pressure",
+        "right_answer": "To Explain Magnetic Properties"
+    },
+    {
+        "title": "Why We Use <br> The Gibbs Free Energy Equation",
+        "answer_1": "To Predict Spontaneity of Reactions",
+        "answer_2": "To Measure Temperature Changes",
+        "answer_3": "To Calculate Molecular Weight",
+        "answer_4": "To Determine Reaction Rates",
+        "right_answer": "To Predict Spontaneity of Reactions"
+    },
+    {
+        "title": "Why We Use <br> Coordination Chemistry",
+        "answer_1": "To Study Metal Complexes",
+        "answer_2": "To Analyze Acids and Bases",
+        "answer_3": "To Calculate Solubility",
+        "answer_4": "To Measure Thermal Stability",
+        "right_answer": "To Study Metal Complexes"
+    },
+    {
+        "title": "Why We Use <br> Spectroscopy",
+        "answer_1": "To Identify Molecular Structures",
+        "answer_2": "To Measure Reaction Rates",
+        "answer_3": "To Calculate Molarity",
+        "answer_4": "To Predict Product Formation",
+        "right_answer": "To Identify Molecular Structures"
+    }
+]
